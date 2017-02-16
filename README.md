@@ -1,6 +1,4 @@
-# Dropbox (S)CSS Style Guide
-
-> “Every line of code should appear to be written by a single person, no matter the number of contributors.” —@mdo
+# Fifth Ring (S)CSS Style Guide
 
 ## General
 ### Don’ts
